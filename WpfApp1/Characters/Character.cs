@@ -23,6 +23,7 @@ namespace WpfApp1.Characters
 
         List<Effect> Effects = new List<Effect>();
 
+        //試しに打ち込んでみる
         public Character(string name, int hp, int mp, int lv, int atk)
         {
             Name = name;
