@@ -14,6 +14,7 @@ namespace WpfApp1.Characters
     }
     public class Character
     {
+        //更に色々試す
         string Name { get; set; }
         int HP { get; set; }
         int MP { get; set; }
