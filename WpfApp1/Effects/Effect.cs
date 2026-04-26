@@ -10,7 +10,7 @@ namespace WpfApp1
 {
     public abstract class Effect
     {
-        public int power;
+        public int power; //効き目量
         public abstract void OnApply(Character character);
         public abstract void OnTurnStart(Character character);
         public abstract void OnExpire(Character character);
