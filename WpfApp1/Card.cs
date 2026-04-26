@@ -10,7 +10,6 @@ namespace WpfApp1
 
     public class Card
     {
-        //こっちにも変更を入れてみる
         public string Name {  get; set; }
         public int Attack {  get; set; }
         public int Cost {  get; set; }
